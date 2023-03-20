@@ -1,5 +1,5 @@
 # Technology
-1. SOLID programming principles
+1. [SOLID programming principles](https://github.com/hamza-iitju/SOLID-Principle)
 2. TDD
 3. API integrations
 4. Front-end frameworks/libraries such as Vue, Angular, React
